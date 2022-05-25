@@ -1,0 +1,2 @@
+O Git é um sistema de versionamento de arquivos, pastas e objetos em geral (blobs)
+O GIthub é uma plataforma online para armazenamento e sincronização destes objetos.
